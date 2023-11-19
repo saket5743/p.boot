@@ -1,0 +1,52 @@
+body{
+    background-image: url('gym1.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+img {
+  width: 70px;
+  height: 40px;
+}
+
+.a1 {
+  margin-left: 200px;
+  font-style: bold;
+}
+
+.a2 {
+  margin-left: 290px;
+  color: white;
+  background-color: black;
+}
+
+.a3 {
+  margin-left: 20px;
+  color: white;
+  background-color: black;
+}
+
+.ts {
+  font-size: large;
+  color: white;
+}
+
+.inp{
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 430px;
+    width: 550px;
+    padding: 50px;
+    margin-top: 60px;
+    margin-left: 40px;
+    text-align: center;
+    display: inline-block;
+}
+
+input{
+    text-align: center;
+    margin-top: 10px;
+    width: 300px;
+    border-radius: 5px;
+}
